@@ -134,8 +134,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: systematic markers # blog_name will be displayed in your blog page
-blog_description: insights into biomarkers, complex systems, & disorder
+blog_name: marked complexity # blog_name will be displayed in your blog page
+blog_description: insights into biomarkers, complex systems, & being a young researcher
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
