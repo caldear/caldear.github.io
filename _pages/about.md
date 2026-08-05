@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='mailto:cal_dearborn@brown.edu'>Email</a> / <a href='https://www.linkedin.com/in/cal-dearborn/'>LinkedIn</a> <a href='https://www.github.com/caldear/'>GitHub</a> <a href='https://scholar.google.com/'>Google Scholar</a>
+subtitle: <a href='mailto:cal_dearborn@brown.edu'>Email</a> / <a href='https://www.linkedin.com/in/cal-dearborn/'>LinkedIn</a> / <a href='https://www.github.com/caldear/'>GitHub</a> / <a href='https://scholar.google.com/'>Google Scholar</a>
 
 profile:
   align: right
