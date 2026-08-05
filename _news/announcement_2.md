@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Rewarded full-time RAship in the Wilson Lab for Summer 2026!
+Excited to work full-time in the [Wilson Lab](https://wilsonresearchlab.org/) for Summer 2026!
