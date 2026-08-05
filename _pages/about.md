@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='mailto:cal_dearborn@brown.edu'>Email</a> / <a href='https://www.linkedin.com/in/cal-dearborn/'>LinkedIn</a> <a href='https://www.github.com/caldear/'>GitHub</a> <a href='https://scholar.google.com/'>Google Scholar</a>
 
 profile:
   align: right
@@ -13,7 +13,7 @@ profile:
     <p>Providence, RI 02912</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
