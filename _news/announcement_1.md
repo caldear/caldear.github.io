@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Officially Joined the Wilson Lab!
+Joined the [Wilson Lab](https://wilsonresearchlab.org/)!
