@@ -12,7 +12,7 @@ cv:
     - network: GitHub
       username: example
     - network: LinkedIn
-      username: 
+      username: example
 
   address:
     street: 69 Brown St, Box 9357
@@ -31,16 +31,12 @@ cv:
         start_date: 2025
         end_date: 2029
         score: "4.0/4.0"
-        courses: 
-        highlights:
 
       - institution: Dover High School 
         location: Dover, NH
-        area:
         studyType: Diploma with Distinction
         start_date: 2021
         end_date: 2025
-        highlights:
 
     Experience:
       - company: Carney Institute for Brain Science
@@ -48,7 +44,7 @@ cv:
         location: Providence, RI
         start_date: 2026-03-02
         end_date: Present
-        summary:
+        summary: "Researching Neurodegenerative Diseases"
         highlights:
           -"Developing pipelines to harness diagnostic and prognostic capabilities of blood biomarkers in the context of neurodegenerative diseases."
 
@@ -58,7 +54,7 @@ cv:
         location: Providence, RI
         start_date: 2026-05-12
         end_date: Present
-        summary: 
+        summary: "Lead Public Health Research"
         highlights:
           - "Organize weekly meetings to construct harm reduction kits to combat overdose and substance related deaths in collaboration with Project Weber Renew."
           - "Head a research study about fentanyl test kit and naloxone distribution efforts to nightlife and bar venues in Providence."
@@ -69,34 +65,13 @@ cv:
         location: Providence, RI
         start_date: 2026-05-8
         end_date: Present
-        summary: 
+        summary: "Lead outreach and research access efforts for undergrads"
         highlights:
           - "Plan departmental events centering around undergraduate access to research in the field and those adjacent"
           - "Function as a liaison between student voices and faculty to improve the undergraduate experience"
-
-        
-    Awards:
-      - title: 
-        authors:
-          -
-        date: 
-        awarder:
-        url: 
-        summary: 
-
-    Publications:
-      - title: 
-        authors:
-          - 
-        publisher:
-        releaseDate:
-        url:
-        summary: 
         
     Skills:
       - name: Computational
-        level:
-        icon: 
         keywords: "R, Python, HTML, GraphPad, Microsoft Office Suite, Google Suite, Adobe Creative Suite, Canva"
 
     Languages:
@@ -108,35 +83,28 @@ cv:
 
     Interests:
       - name: Research
-        icon: 
         keywords: "Blood Biomarkers, Neurodegeneration, Acquired Brain Injuries, Aging, Complex Systems Biology"
 
       - name: Public Health
-        icon:
         keywords: "Equitable Access to Healthcare, Overdose Prevention, Harm Reduction'
 
     Certificates:
       - name: Lab Safety
         date: 2026-03-28
         issuer: Brown University
-        icon: 
         
       - name: Chemical Hygiene
         date: 2026-03-28
         issuer: Brown University
-        icon: 
         
       - name: Hazardous Waste
         date: 2026-03-28
         issuer: Brown University
-        icon: 
         
       - name: Blood Borne Pathogens
         date: 2026-03-28
         issuer: Brown University
-        icon: 
 
       - name: Human Research: Social-Behavioral-Educational Researchers and Key Personnel
         date: 2026-04-10
         issuer: CITI 
-        icon: 
