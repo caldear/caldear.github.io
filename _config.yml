@@ -8,8 +8,6 @@ middle_name: K.
 last_name: Dearborn
 contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-Academic website for undergraduate student and researcher at Brown University, Cal Dearborn. 
-Cal's work focuses on blood biomarkers and complex systems biology in the context of neurodegeneration and other subfields of neuroscience. 
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
